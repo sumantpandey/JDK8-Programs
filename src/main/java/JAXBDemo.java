@@ -13,7 +13,8 @@ public class JAXBDemo {
         marshaller.marshal(dvd, writer);
         System.out.println(writer.toString());
         System.out.println("testing git rebase, made change in master then will rebase mastercopy1 branch onto master, lets see");
-
+//
+        //
     }
 }
 
