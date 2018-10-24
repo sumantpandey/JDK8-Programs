@@ -15,6 +15,7 @@ public class JAXBDemo {
         System.out.println("testing git rebase, made change in master then will rebase mastercopy1 branch onto master, lets see");
         System.out.println("1111111111111111");
         System.out.println("2222222222222222222");
+        System.out.println("333333333333333");
     }
 }
 
