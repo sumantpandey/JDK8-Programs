@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a33ec52-d6f4-4fab-953e-95a6cec9bf28" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/JAXBDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JAXBDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DataItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ExceptionA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAXBDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ListData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ParseXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TestAO.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +36,13 @@
     <session id="-1445741494">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -76,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ParseXML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="221">
               <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -88,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="340">
               <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -100,8 +109,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/JAXBDemo.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="272">
               <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+=======
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -118,11 +132,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/masterCopy1" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="masterCopy1" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -145,10 +162,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="1694" />
-    <option name="height" value="1017" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,6 +175,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test.examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test.examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test.examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test.examples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -168,36 +216,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JDK8-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDK8-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDK8-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JDK8-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JDK8-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -271,6 +289,8 @@
       <workItem from="1538668596310" duration="3548000" />
       <workItem from="1539491317484" duration="6783000" />
       <workItem from="1539680191260" duration="588000" />
+      <workItem from="1540455392364" duration="620000" />
+      <workItem from="1540510243850" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="added new classes">
       <created>1539613727053</created>
@@ -290,13 +310,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="11341000" />
+=======
+    <option name="totallyTimeSpent" value="13316000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892703" visible="true" weight="0.19616205" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892703" visible="true" weight="0.20110025" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" sideWeight="0.50107294" side_tool="true" weight="0.24938875" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +444,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ParseXML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="221">
           <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -426,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="340">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -436,8 +464,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/JAXBDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="272">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+=======
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
