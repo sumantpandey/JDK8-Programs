@@ -15,6 +15,8 @@ public class UseOfConsumerInterface {
     public static void main(String[] args) {
         BiConsumerTest_print();
         ConsumerTest_convertToLowercase();
+        DoubleConsumerTest_printout();
+        IntConsumerTest_printout();
     }
 
     public static void BiConsumerTest_print() {
