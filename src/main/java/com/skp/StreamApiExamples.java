@@ -19,7 +19,8 @@ public class StreamApiExamples {
     }
 
     public static void search(List<Employee> inputList) {
-        List list = inputList.stream().filter(name -> name.getFirstName().contains("1")).collect(Collectors.toList());
+        List list = inputList.stream().filter(name -> name.getFirstName().contains("1"))
+                .collect(Collectors.toList());
         System.out.println(list);
     }
 
